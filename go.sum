@@ -2,3 +2,5 @@ github.com/andsholinka/go-say-hello v1.0.0 h1:LZoAFEBBzC8VOVYpyVqAg9pIYAoZex7FaK
 github.com/andsholinka/go-say-hello v1.0.0/go.mod h1:sQ+iqfcz+Zt0OLOBMiT4I/pF3xZ+bPKzSEkcqUY6l8w=
 github.com/andsholinka/go-say-hello v1.5.0 h1:vwuROGriaNvNxNB06x86Sojogzqerl24uJS00dUdI9A=
 github.com/andsholinka/go-say-hello v1.5.0/go.mod h1:sQ+iqfcz+Zt0OLOBMiT4I/pF3xZ+bPKzSEkcqUY6l8w=
+github.com/andsholinka/go-say-hello/v2 v2.0.0 h1:UWwofFkmnmQprYxOZOc+hffSmpAnxy2YB7tDd1/Ln/s=
+github.com/andsholinka/go-say-hello/v2 v2.0.0/go.mod h1:CTANTsN3O5wfuJvb6JSVYXlfUaxbGelDg/Zl6pE5zv4=
